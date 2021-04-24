@@ -1,0 +1,14 @@
+{
+  "name": "ucoinn",
+  "version": "1.0.0",
+  "description": "blockchain implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehmet Ünübol",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
